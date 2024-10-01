@@ -1,5 +1,6 @@
 package com.gabreudev.TemVaga_API.entities;
 
+import com.gabreudev.TemVaga_API.entities.Announcement.Announcement;
 import jakarta.persistence.*;
 import lombok.Data;
 
